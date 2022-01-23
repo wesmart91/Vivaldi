@@ -1,0 +1,22 @@
+form{
+    border: 1px solid black;
+    background-color: aqua;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+    width: 80%;
+}
+
+.inputstyle {
+    width: 10%;
+    padding: 10px 10px;
+
+}
+
+.emailstyle{
+    width: 50%;
+    padding: 15px 15px;
+}
+.divestyle{
+    padding: 10px;
+}
